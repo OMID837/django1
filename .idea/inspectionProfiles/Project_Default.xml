@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="mutagen" />
+            <item index="1" class="java.lang.String" itemvalue="pillow" />
+            <item index="2" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="googletrans" />
+            <item index="5" class="java.lang.String" itemvalue="arabic-reshaper" />
+            <item index="6" class="java.lang.String" itemvalue="gtts" />
+            <item index="7" class="java.lang.String" itemvalue="python-bidi" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="acounting.models.User" />
+          <option value="acounting.models.AbsrtactUser" />
+          <option value="encryption.Crypto" />
+          <option value="contact.views.reverse" />
+          <option value="home.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
